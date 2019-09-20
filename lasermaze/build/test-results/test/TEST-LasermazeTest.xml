@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LasermazeTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2019-09-20T03:58:04" hostname="LAPTOP-0BFIONNM" time="0.043">
+  <properties/>
+  <testcase name="testEvalatuate[input/input000.txt]" classname="LasermazeTest" time="0.017"/>
+  <testcase name="testEvalatuate[input/input001.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input002.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input003.txt]" classname="LasermazeTest" time="0.002"/>
+  <testcase name="testEvalatuate[input/input004.txt]" classname="LasermazeTest" time="0.002"/>
+  <testcase name="testEvalatuate[input/input005.txt]" classname="LasermazeTest" time="0.002"/>
+  <testcase name="testEvalatuate[input/input006.txt]" classname="LasermazeTest" time="0.002"/>
+  <testcase name="testEvalatuate[input/input007.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input008.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input009.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input010.txt]" classname="LasermazeTest" time="0.002"/>
+  <testcase name="testEvalatuate[input/input011.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input012.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input013.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input014.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input015.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input016.txt]" classname="LasermazeTest" time="0.001"/>
+  <testcase name="testEvalatuate[input/input017.txt]" classname="LasermazeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
